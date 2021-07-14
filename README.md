@@ -7,7 +7,7 @@ The essence of all work that you submit to the CS50 course **must be your own**.
 
 # CS50's Finance - Stock Trade Simulator
 ![](/finance_portfolio.png)
-<img src="/finance_portfolio.png" width="100">
+<img src="/finance_portfolio.png" width="700">
 
 # Created with 
 This webpage uses HTML, CSS, JavaScript, with jQuery's and Bootstrap's components.
