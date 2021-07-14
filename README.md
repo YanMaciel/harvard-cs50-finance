@@ -6,6 +6,7 @@ It is not reasonable to access a solution to some assessement prior to (re-)subm
 The essence of all work that you submit to the CS50 course **must be your own**. 
 
 # CS50's Finance - Stock Trade Simulator
+![](/finance_portfolio.png)
 
 
 # Created with 
