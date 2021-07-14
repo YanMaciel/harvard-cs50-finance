@@ -29,7 +29,8 @@ Don't use the same password that you would use in real-life to register. This is
 You can access the webp app at: https://harvard-cs50-8-finance.herokuapp.com/login
 
 # What I learned
-HARD SKILLS LEARNT:
+Further learning of:
+
 Python, Flask, HTML, CSS, Bootstrap, MVC, Heroku, Git commands
 
 I learned to work within a Framework (Flask in this case) and on a fullstack project that applies the MVC (Model-View-Controller) pattern.
