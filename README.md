@@ -33,6 +33,6 @@ Further learning of: Python, Flask, HTML, CSS, Bootstrap, MVC, Heroku, Git comma
 
 I learned to work within a Framework (Flask in this case) and on a fullstack project that applies the MVC (Model-View-Controller) pattern.
 
-Besides that, deploying this app in Heroku was another challenge that teached me to plan the production environment ahead in order to not have inconsistencies deploying our applications. 
+Also, deploying this app in Heroku was another challenge that teached me to plan the production environment ahead in order to not have inconsistencies deploying our applications. 
 
 It was a great experience.
